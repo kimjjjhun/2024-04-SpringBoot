@@ -57,7 +57,7 @@
 
  ---
 
-# 📄 기능 구현 사항 ([유튜브로 이동](https://www.youtube.com/watch?app=desktop&v=n38M9lNqI_4))
+# 📄 기능 구현 사항
 ## 1. 메인 페이지    
   * ####  (1) 상품 조회 (구현완료)   
    
