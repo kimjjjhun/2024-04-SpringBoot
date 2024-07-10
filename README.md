@@ -46,8 +46,7 @@
 </div>
 
 # 💻 DB 명세서
-<img src="(https://github.com/kimjjjhun/2024-04-SpringBoot/assets/157094653/48052573-fe4f-4c3c-8182-9d82dceb32e9)" width="100%">
-
+![image](https://github.com/kimjjjhun/2024-04-SpringBoot/assets/157094653/52b351b9-1d7c-40e3-b964-61e428b8eb60)
 
  
 # 📜 API 사용내역
