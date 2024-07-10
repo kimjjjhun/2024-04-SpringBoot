@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+      xmlns:sec="http://www.thymeleaf.org/extras/spring-security">
+
+<div th:fragment="header">
+    <nav class="navbar navbar-expand-sm bg-white navbar-dark">
+        <button class="navbar-toggler" type="button" data-toggle="collapse"
+                data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03"
+                aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <a class="navbar-brand" href="/"><img class="image mb-2" src="/image/춘식.png" alt="로고" width="70"><b style="color: black; margin-left: 30px">SIMPLE SHOP</b></a>
+
+        <div class="collapse navbar-collapse" id="navbarToggleDemo03">
+            <ul class="navbar-nav ml-auto mt-2 mt-lg-0" style="margin-left: 100px">
+                <li class="nav-item" th:if="${#authorization.expression('isAuthenticated()')}">
+                    <a class="nav-link" href="/members/mypage" style="color: black"><b><span style="color: red" th:text="${#authentication.name}"></span>님 어서오세요.</b></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#info" style="color: black"><b>쇼핑몰소개</b></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/board/notice" style="color: black"><b>공지사항</b></a>
+                </li>
+                <li class="nav-item" sec:authorize="hasAnyAuthority('ROLE_ADMIN')">
+                    <a class="nav-link" href="/admin/item/new" style="color: black"><b>상품 등록</b></a>
+                </li>
+                <li class="nav-item" sec:authorize="hasAnyAuthority('ROLE_ADMIN')" >
+                    <a class="nav-link" href="/admin/items" style="color: black"><b>상품 관리</b></a>
+                </li>
+                <li class="nav-item" sec:authorize="isAuthenticated()">
+                    <a class="nav-link" href="/cart" style="color: black"><b>장바구니</b></a>
+                </li>
+                <li class="nav-item" sec:authorize="isAuthenticated()">
+                    <a class="nav-link" href="/orders" style="color: black"><b>구매이력</b></a>
+                </li>
+                <li class="nav-item" sec:authorize="isAuthenticated()">
+                    <a class="nav-link" href="/board/list" style="color: black"><b>자유게시판</b></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/map" style="color: black"><b>찾아오시는길</b></a>
+                </li>
+                <li class="nav-item" sec:authorize="isAnonymous()">
+                    <a class="nav-link" href="/members/login" style="color: black"><b>로그인</b></a>
+                </li>
+                <li class="nav-item" sec:authorize="isAuthenticated()">
+                    <a class="nav-link" href="/members/logout" style="color: black"><b>로그아웃</b></a>
+                </li>
+            </ul>
+            <form class="form-inline my-2 my-lg-0" th:action="@{/}" method="get">
+                <input name="searchQuery" class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                <button class="btn btn-white my-2 my-sm-0" type="submit">검색</button>
+            </form>
+        </div>
+    </nav>
+</div>
+
+</html>

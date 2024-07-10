@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+      layout:decorate="~{layouts/layout1}">
+
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Tailwind Starter Template - Nordic Shop: Tailwind Toolbox</title>
+<meta name="description" content="Free open source Tailwind CSS Store template">
+<meta name="keywords" content="tailwind,tailwindcss,tailwind css,css,starter template,free template,store template, shop layout, minimal, monochrome, minimalistic, theme, nordic">
+
+<link rel="stylesheet" href="https://unpkg.com/tailwindcss@2.2.19/dist/tailwind.min.css"/>
+<link href="https://fonts.googleapis.com/css?family=Work+Sans:200,400&display=swap" rel="stylesheet">
+
+<!-- 사용자 CSS 추가 -->
+<th:block layout:fragment="css">
+    <style>
+        .error {
+            color: #bd2130;
+        }
+    </style>
+</th:block>
+
+<div th:replace="~{fragments/header::header}"></div>
+
+<div layout:fragment="content">
+
+    <div class="login-page">
+        <div class="form" id="customLogin">
+            <form class="login-form" role="form" action="/members/login" method="post">
+                <input type="email" name="email" placeholder="이메일을 입력해주세요" autocomplete="current-email"/>
+                <input type="password" name="password" placeholder="비밀번호를 입력해주세요" autocomplete="current-password"/>
+
+                <div class="checkboxDiv">
+
+                    <div>
+                        <label style="display: flex; align-items: center;">
+                            <input type="checkbox" name="remember-me"><p style="color: black; margin-left: 5px;">자동로그인</p>
+                        </label>
+                    </div>
+
+                </div>
+
+                <div>
+                    <a href="/oauth2/authorization/kakao">
+                        <img th:src="@{/image/kakaotalk.png}" width="30" height="30" style="margin-right: 10px; display: inline" alt="카카오톡">
+                    </a>
+                    <a href="/">
+                        <img th:src="@{/image/twiter.png}" width="30" height="30" style="margin-right: 10px; display: inline" alt="트위터">
+                    </a>
+                    <a href="/">
+                        <img th:src="@{/image/instagram.png}" width="30" height="30" style="display:inline;" alt="인스타그램">
+                    </a>
+                </div>
+
+                <p th:if="${loginErrorMsg}" class="error" th:text="${loginErrorMsg}"></p>
+
+                <button type="submit" class="btn btn-primary" style="margin-bottom: 30px; margin-top: 30px">로그인</button>
+
+                <button type="button" class="btn registerBtn">회원가입</button>
+
+            </form>
+        </div>
+    </div>
+
+    <script>
+
+        // 회원가입 버튼 클릭 시
+        document.querySelector(".registerBtn").addEventListener("click", function(e) {
+            e.preventDefault();
+            e.stopPropagation();
+                self.location = '/members/new';
+        });
+    </script>
+
+</div>
+
+
+
+</html>

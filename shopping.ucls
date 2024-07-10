@@ -1,0 +1,1658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" automaticImage="GIF" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="com.shop.config.AuditConfig" project="shop" 
+    file="/shop/src/main/java/com/shop/config/AuditConfig.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="219" x="3127" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.shop.config.CustomServletConfig" project="shop" 
+    file="/shop/src/main/java/com/shop/config/CustomServletConfig.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="289" x="4108" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.shop.config.RootConfig" project="shop" 
+    file="/shop/src/main/java/com/shop/config/RootConfig.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="152" x="6257" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.shop.config.CustomAuthticationEntryPoint" project="shop" 
+    file="/shop/src/main/java/com/shop/config/CustomAuthticationEntryPoint.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="426" x="5358" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.shop.config.AuditorAwareImpl" project="shop" 
+    file="/shop/src/main/java/com/shop/config/AuditorAwareImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="202" x="44" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.shop.config.WebMvcConfig" project="shop" 
+    file="/shop/src/main/java/com/shop/config/WebMvcConfig.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="289" x="2593" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.shop.config.CustomSocialLoginSuccessHandler" project="shop" 
+    file="/shop/src/main/java/com/shop/config/CustomSocialLoginSuccessHandler.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="451" x="286" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.shop.config.SecurityConfig" project="shop" 
+    file="/shop/src/main/java/com/shop/config/SecurityConfig.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="333" x="9400" y="644"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.shop.config.SwaggerConfig" project="shop" 
+    file="/shop/src/main/java/com/shop/config/SwaggerConfig.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="111" x="996" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="com.shop.config.handler.CumstomSocailLoginSuccessHandler" project="shop" 
+    file="/shop/src/main/java/com/shop/config/handler/CumstomSocailLoginSuccessHandler.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="135" width="451" x="2102" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="com.shop.config.handler.Custom403Handler" project="shop" 
+    file="/shop/src/main/java/com/shop/config/handler/Custom403Handler.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="408" x="1654" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="12" language="java" name="com.shop.constant.ItemSellStatus" project="shop" 
+    file="/shop/src/main/java/com/shop/constant/ItemSellStatus.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="153" x="6799" y="2339"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <enumeration id="13" language="java" name="com.shop.constant.OrderStatus" project="shop" 
+    file="/shop/src/main/java/com/shop/constant/OrderStatus.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="132" x="6467" y="1179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <enumeration id="14" language="java" name="com.shop.constant.Role" project="shop" 
+    file="/shop/src/main/java/com/shop/constant/Role.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="119" x="8797" y="3517"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="15" language="java" name="com.shop.controller.ReplyController" project="shop" 
+    file="/shop/src/main/java/com/shop/controller/ReplyController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="320" x="10031" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="com.shop.controller.OrderController" project="shop" 
+    file="/shop/src/main/java/com/shop/controller/OrderController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="311" x="10710" y="644"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="com.shop.controller.MainController" project="shop" 
+    file="/shop/src/main/java/com/shop/controller/MainController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="275" x="6891" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="com.shop.controller.ItemController" project="shop" 
+    file="/shop/src/main/java/com/shop/controller/ItemController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="364" x="7206" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="com.shop.controller.MemberController" project="shop" 
+    file="/shop/src/main/java/com/shop/controller/MemberController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="304" x="9056" y="644"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="com.shop.controller.CartController" project="shop" 
+    file="/shop/src/main/java/com/shop/controller/CartController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="304" x="11061" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="com.shop.controller.BoardController" project="shop" 
+    file="/shop/src/main/java/com/shop/controller/BoardController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="383" x="8501" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="com.shop.controller.UploadController" project="shop" 
+    file="/shop/src/main/java/com/shop/controller/UploadController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="259" x="5059" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="com.shop.dto.CartItemDto" project="shop" 
+    file="/shop/src/main/java/com/shop/dto/CartItemDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="123" x="4896" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="com.shop.dto.ItemSearchDto" project="shop" 
+    file="/shop/src/main/java/com/shop/dto/ItemSearchDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="222" x="6839" y="1804"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="com.shop.dto.PageResponseDto" project="shop" 
+    file="/shop/src/main/java/com/shop/dto/PageResponseDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="423" width="255" x="11956" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="com.shop.dto.CartDetailDto" project="shop" 
+    file="/shop/src/main/java/com/shop/dto/CartDetailDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="210" x="6007" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="com.shop.dto.OrderItemDto" project="shop" 
+    file="/shop/src/main/java/com/shop/dto/OrderItemDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="175" x="6252" y="1179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="com.shop.dto.CartOrderDto" project="shop" 
+    file="/shop/src/main/java/com/shop/dto/CartOrderDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="246" x="4437" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="com.shop.dto.MemberSecurityDto" project="shop" 
+    file="/shop/src/main/java/com/shop/dto/MemberSecurityDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="495" width="444" x="3386" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="com.shop.dto.BoardImageDto" project="shop" 
+    file="/shop/src/main/java/com/shop/dto/BoardImageDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="180" x="7902" y="1179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="com.shop.dto.BoardDto" project="shop" 
+    file="/shop/src/main/java/com/shop/dto/BoardDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="567" width="402" x="6449" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="com.shop.dto.OrderDto" project="shop" 
+    file="/shop/src/main/java/com/shop/dto/OrderDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="123" x="4733" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="com.shop.dto.ReplyDto.ReplyDtoBuilder" project="shop" 
+    file="/shop/src/main/java/com/shop/dto/ReplyDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="238" x="10432" y="644"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="com.shop.dto.BoardDto.BoardDtoBuilder" project="shop" 
+    file="/shop/src/main/java/com/shop/dto/BoardDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="240" x="6926" y="644"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="com.shop.dto.ReplyDto" project="shop" 
+    file="/shop/src/main/java/com/shop/dto/ReplyDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="531" width="336" x="10432" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="com.shop.dto.ItemDto" project="shop" 
+    file="/shop/src/main/java/com/shop/dto/ItemDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="459" width="198" x="3870" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="com.shop.dto.MemberFormDto" project="shop" 
+    file="/shop/src/main/java/com/shop/dto/MemberFormDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="477" width="367" x="8602" y="2339"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="com.shop.dto.ItemFormDto.ItemFormDtoBuilder" project="shop" 
+    file="/shop/src/main/java/com/shop/dto/ItemFormDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="277" x="6501" y="1804"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="com.shop.dto.BoardListReplyCountDto" project="shop" 
+    file="/shop/src/main/java/com/shop/dto/BoardListReplyCountDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="351" width="183" x="1147" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="40" language="java" name="com.shop.dto.PageResponseDto.PageResponseDtoBuilder" project="shop" 
+    file="/shop/src/main/java/com/shop/dto/PageResponseDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="337" x="11956" y="644"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="41" language="java" name="com.shop.dto.MainItemDto" project="shop" 
+    file="/shop/src/main/java/com/shop/dto/MainItemDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="244" x="1370" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="42" language="java" name="com.shop.dto.BoardListAllDto.BoardListAllDtoBuilder" project="shop" 
+    file="/shop/src/main/java/com/shop/dto/BoardListAllDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="308" x="7573" y="644"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="43" language="java" name="com.shop.dto.PageRequestDto" project="shop" 
+    file="/shop/src/main/java/com/shop/dto/PageRequestDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="549" width="232" x="11956" y="1179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="44" language="java" name="com.shop.dto.MemberFormDto.MemberFormDtoBuilder" project="shop" 
+    file="/shop/src/main/java/com/shop/dto/MemberFormDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="351" width="226" x="8510" y="3072"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="45" language="java" name="com.shop.dto.PageRequestDto.PageRequestDtoBuilder" project="shop" 
+    file="/shop/src/main/java/com/shop/dto/PageRequestDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="221" x="11956" y="1804"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="46" language="java" name="com.shop.dto.OrderHistDto" project="shop" 
+    file="/shop/src/main/java/com/shop/dto/OrderHistDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="244" x="6359" y="644"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="47" language="java" name="com.shop.dto.BoardImageDto.BoardImageDtoBuilder" project="shop" 
+    file="/shop/src/main/java/com/shop/dto/BoardImageDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="212" x="7921" y="1804"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="48" language="java" name="com.shop.dto.BoardListAllDto" project="shop" 
+    file="/shop/src/main/java/com/shop/dto/BoardListAllDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="513" width="399" x="7610" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="49" language="java" name="com.shop.dto.ItemFormDto" project="shop" 
+    file="/shop/src/main/java/com/shop/dto/ItemFormDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="585" width="458" x="6639" y="1179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="50" language="java" name="com.shop.dto.ItemImgDto" project="shop" 
+    file="/shop/src/main/java/com/shop/dto/ItemImgDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="387" width="160" x="6461" y="2339"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="51" language="java" name="com.shop.dto.upload.UploadResultDto.UploadResultDtoBuilder" project="shop" 
+    file="/shop/src/main/java/com/shop/dto/upload/UploadResultDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="218" x="9773" y="644"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="52" language="java" name="com.shop.dto.upload.UploadResultDto" project="shop" 
+    file="/shop/src/main/java/com/shop/dto/upload/UploadResultDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="387" width="213" x="9773" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="53" language="java" name="com.shop.dto.upload.UploadFileDto" project="shop" 
+    file="/shop/src/main/java/com/shop/dto/upload/UploadFileDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="179" x="777" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="54" language="java" name="com.shop.entity.BoardImage.BoardImageBuilder" project="shop" 
+    file="/shop/src/main/java/com/shop/entity/BoardImage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="196" x="7101" y="1804"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="55" language="java" name="com.shop.entity.Order" project="shop" 
+    file="/shop/src/main/java/com/shop/entity/Order.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="495" width="240" x="6646" y="644"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="56" language="java" name="com.shop.entity.Cart" project="shop" 
+    file="/shop/src/main/java/com/shop/entity/Cart.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="148" x="9009" y="1804"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="57" language="java" name="com.shop.entity.BaseEntity" project="shop" 
+    file="/shop/src/main/java/com/shop/entity/BaseEntity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="133" x="8883" y="644"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="58" language="java" name="com.shop.entity.BaseTimeEntity" project="shop" 
+    file="/shop/src/main/java/com/shop/entity/BaseTimeEntity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="198" x="8924" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="59" language="java" name="com.shop.entity.CartItem" project="shop" 
+    file="/shop/src/main/java/com/shop/entity/CartItem.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="202" x="8694" y="1179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="60" language="java" name="com.shop.entity.Member.MemberBuilder" project="shop" 
+    file="/shop/src/main/java/com/shop/entity/Member.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="405" width="191" x="8797" y="3072"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="61" language="java" name="com.shop.entity.OrderItem" project="shop" 
+    file="/shop/src/main/java/com/shop/entity/OrderItem.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="387" width="195" x="7667" y="1179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="62" language="java" name="com.shop.entity.Reply.ReplyBuilder" project="shop" 
+    file="/shop/src/main/java/com/shop/entity/Reply.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="169" x="8746" y="1804"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="63" language="java" name="com.shop.entity.BoardImage" project="shop" 
+    file="/shop/src/main/java/com/shop/entity/BoardImage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="196" x="8273" y="3517"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="64" language="java" name="com.shop.entity.Item" project="shop" 
+    file="/shop/src/main/java/com/shop/entity/Item.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="495" width="206" x="8500" y="1804"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="65" language="java" name="com.shop.entity.Member" project="shop" 
+    file="/shop/src/main/java/com/shop/entity/Member.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="693" width="366" x="9009" y="2339"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="66" language="java" name="com.shop.entity.Board" project="shop" 
+    file="/shop/src/main/java/com/shop/entity/Board.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="268" x="8294" y="2339"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="67" language="java" name="com.shop.entity.Board.BoardBuilder" project="shop" 
+    file="/shop/src/main/java/com/shop/entity/Board.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="228" x="8024" y="3072"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="68" language="java" name="com.shop.entity.Reply" project="shop" 
+    file="/shop/src/main/java/com/shop/entity/Reply.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="351" width="179" x="8936" y="1179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="69" language="java" name="com.shop.entity.ItemImg" project="shop" 
+    file="/shop/src/main/java/com/shop/entity/ItemImg.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="423" width="215" x="8418" y="1179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="70" language="java" name="com.shop.exception.OutOfStockException" project="shop" 
+    file="/shop/src/main/java/com/shop/exception/OutOfStockException.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="165" x="2922" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="71" language="java" name="com.shop.repository.BoardRepository" project="shop" 
+    file="/shop/src/main/java/com/shop/repository/BoardRepository.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="235" x="8122" y="1179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="72" language="java" name="com.shop.repository.ItemImgRepository" project="shop" 
+    file="/shop/src/main/java/com/shop/repository/ItemImgRepository.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="254" x="7627" y="1804"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="73" language="java" name="com.shop.repository.CartRepository" project="shop" 
+    file="/shop/src/main/java/com/shop/repository/CartRepository.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="158" x="10863" y="1179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="74" language="java" name="com.shop.repository.ReplyRepository" project="shop" 
+    file="/shop/src/main/java/com/shop/repository/ReplyRepository.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="225" x="9718" y="1179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="75" language="java" name="com.shop.repository.ItemRepositoryCustom" project="shop" 
+    file="/shop/src/main/java/com/shop/repository/ItemRepositoryCustom.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="327" x="11371" y="1179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="76" language="java" name="com.shop.repository.CartItemRepository" project="shop" 
+    file="/shop/src/main/java/com/shop/repository/CartItemRepository.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="249" x="11061" y="1179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="77" language="java" name="com.shop.repository.OrderRepository" project="shop" 
+    file="/shop/src/main/java/com/shop/repository/OrderRepository.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="221" x="10390" y="1804"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="78" language="java" name="com.shop.repository.ItemRepositoryCustomImpl" project="shop" 
+    file="/shop/src/main/java/com/shop/repository/ItemRepositoryCustomImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="327" x="11589" y="644"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="79" language="java" name="com.shop.repository.ItemRepository" project="shop" 
+    file="/shop/src/main/java/com/shop/repository/ItemRepository.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="311" x="10651" y="1804"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="80" language="java" name="com.shop.repository.OrderItemRepository" project="shop" 
+    file="/shop/src/main/java/com/shop/repository/OrderItemRepository.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="63" width="143" x="5824" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="81" language="java" name="com.shop.repository.MemberRepository" project="shop" 
+    file="/shop/src/main/java/com/shop/repository/MemberRepository.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="217" x="10133" y="1804"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="82" language="java" name="com.shop.repository.search.BoardSearchImpl" project="shop" 
+    file="/shop/src/main/java/com/shop/repository/search/BoardSearchImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="412" x="8049" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="83" language="java" name="com.shop.repository.search.BoardSearch" project="shop" 
+    file="/shop/src/main/java/com/shop/repository/search/BoardSearch.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="412" x="7942" y="644"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="84" language="java" name="com.shop.service.OrderService" project="shop" 
+    file="/shop/src/main/java/com/shop/service/OrderService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="433" x="10390" y="1179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="85" language="java" name="com.shop.service.FileService" project="shop" 
+    file="/shop/src/main/java/com/shop/service/FileService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="202" x="7358" y="1804"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="86" language="java" name="com.shop.service.Oauth2MemberService" project="shop" 
+    file="/shop/src/main/java/com/shop/service/Oauth2MemberService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="346" x="9983" y="1179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="87" language="java" name="com.shop.service.MemberService" project="shop" 
+    file="/shop/src/main/java/com/shop/service/MemberService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="225" x="9400" y="1179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="88" language="java" name="com.shop.service.CartService" project="shop" 
+    file="/shop/src/main/java/com/shop/service/CartService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="488" x="11061" y="644"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="89" language="java" name="com.shop.service.ItemService" project="shop" 
+    file="/shop/src/main/java/com/shop/service/ItemService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="327" x="7206" y="644"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="90" language="java" name="com.shop.service.ItemImgService" project="shop" 
+    file="/shop/src/main/java/com/shop/service/ItemImgService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="248" x="7358" y="1179"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="91" language="java" name="com.shop.service.ReplyService" project="shop" 
+    file="/shop/src/main/java/com/shop/service/ReplyService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="361" x="10031" y="644"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="92" language="java" name="com.shop.service.BoardService" project="shop" 
+    file="/shop/src/main/java/com/shop/service/BoardService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="428" x="8394" y="644"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="93">    
+    <end type="SOURCE" refId="44" navigable="false">      
+      <attribute id="94" name="roles">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="95" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="96">    
+    <end type="SOURCE" refId="88" navigable="false">      
+      <attribute id="97" name="orderService">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="98" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="84" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="99">    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="100" name="itemImgDtoList">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="101" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="102">    
+    <end type="SOURCE" refId="55" navigable="false">      
+      <attribute id="103" name="orderItems">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="104" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="61" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="105">    
+    <end type="SOURCE" refId="59"/>    
+    <end type="TARGET" refId="57"/>  
+  </generalization>  
+  <association id="106">    
+    <bendpoint x="10359" y="1179"/>    
+    <end type="SOURCE" refId="88" navigable="false">      
+      <attribute id="107" name="memberRepository">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="108" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="81" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="109">    
+    <end type="SOURCE" refId="52"/>    
+    <end type="TARGET" refId="51"/>  
+  </nesting>  
+  <realization id="110">    
+    <end type="SOURCE" refId="82"/>    
+    <end type="TARGET" refId="83"/>  
+  </realization>  
+  <association id="111">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="112" name="searchSellStatus">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="113" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="114">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="115" name="itemService">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="116" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="89" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="117">    
+    <bendpoint x="9018" y="3072"/>    
+    <end type="SOURCE" refId="65" navigable="false">      
+      <attribute id="118" name="roleSet">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="119" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="120">    
+    <bendpoint x="7911" y="644"/>    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="121" name="boardImages">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="122" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="123">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="40"/>  
+  </nesting>  
+  <association id="124">    
+    <end type="SOURCE" refId="67" navigable="false">      
+      <attribute id="125" name="imageSet$value">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="126" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="63" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="127">    
+    <end type="SOURCE" refId="62" navigable="false">      
+      <attribute id="128" name="board">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="129" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="66" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="130">    
+    <end type="SOURCE" refId="54" navigable="false">      
+      <attribute id="131" name="board">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="132" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="66" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="133">    
+    <end type="SOURCE" refId="66"/>    
+    <end type="TARGET" refId="67"/>  
+  </nesting>  
+  <nesting id="134">    
+    <bendpoint x="7696" y="3072"/>    
+    <bendpoint x="7696" y="2339"/>    
+    <end type="SOURCE" refId="63"/>    
+    <end type="TARGET" refId="54"/>  
+  </nesting>  
+  <association id="135">    
+    <end type="SOURCE" refId="87" navigable="false">      
+      <attribute id="136" name="memberRepository">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="137" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="81" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="138">    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="38"/>  
+  </nesting>  
+  <association id="139">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="140" name="itemService">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="141" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="89" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="142">    
+    <end type="SOURCE" refId="86" navigable="false">      
+      <attribute id="143" name="memberRepository">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="144" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="81" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="145">    
+    <end type="SOURCE" refId="61" navigable="false">      
+      <attribute id="146" name="item">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="147" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="64" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="148">    
+    <end type="SOURCE" refId="71"/>    
+    <end type="TARGET" refId="83"/>  
+  </generalization>  
+  <generalization id="149">    
+    <end type="SOURCE" refId="79"/>    
+    <end type="TARGET" refId="75"/>  
+  </generalization>  
+  <association id="150">    
+    <bendpoint x="8282" y="3072"/>    
+    <end type="SOURCE" refId="66" navigable="false">      
+      <attribute id="151" name="imageSet">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="152" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="63" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="153">    
+    <end type="SOURCE" refId="88" navigable="false">      
+      <attribute id="154" name="cartItemRepository">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="155" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="76" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="156">    
+    <end type="SOURCE" refId="92" navigable="false">      
+      <attribute id="157" name="boardRepository">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="158" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="71" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="159">    
+    <end type="SOURCE" refId="40" navigable="false">      
+      <attribute id="160" name="pageRequestDto">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="161" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="43" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="162">    
+    <end type="SOURCE" refId="57"/>    
+    <end type="TARGET" refId="58"/>  
+  </generalization>  
+  <association id="163">    
+    <bendpoint x="8303" y="3072"/>    
+    <end type="SOURCE" refId="63" navigable="false">      
+      <attribute id="164" name="board">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="165" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="66" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="166">    
+    <end type="SOURCE" refId="42" navigable="false">      
+      <attribute id="167" name="boardImages">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="168" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="169">    
+    <end type="SOURCE" refId="84" navigable="false">      
+      <attribute id="170" name="itemImgRepository">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="171" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="72" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="172">    
+    <end type="SOURCE" refId="68"/>    
+    <end type="TARGET" refId="62"/>  
+  </nesting>  
+  <association id="173">    
+    <bendpoint x="9145" y="1179"/>    
+    <end type="SOURCE" refId="89" navigable="false">      
+      <attribute id="174" name="itemRepository">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="175" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="79" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="176">    
+    <bendpoint x="8945" y="1804"/>    
+    <end type="SOURCE" refId="68" navigable="false">      
+      <attribute id="177" name="board">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="178" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="66" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="179">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="33"/>  
+  </nesting>  
+  <generalization id="180">    
+    <end type="SOURCE" refId="68"/>    
+    <end type="TARGET" refId="57"/>  
+  </generalization>  
+  <generalization id="181">    
+    <bendpoint x="8663" y="1179"/>    
+    <end type="SOURCE" refId="64"/>    
+    <end type="TARGET" refId="57"/>  
+  </generalization>  
+  <nesting id="182">    
+    <end type="SOURCE" refId="43"/>    
+    <end type="TARGET" refId="45"/>  
+  </nesting>  
+  <association id="183">    
+    <end type="SOURCE" refId="84" navigable="false">      
+      <attribute id="184" name="itemRepository">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="185" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="79" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="186">    
+    <end type="SOURCE" refId="90" navigable="false">      
+      <attribute id="187" name="itemImgRepository">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="188" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="72" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="189">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="190" name="memberService">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="191" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="87" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="192">    
+    <end type="SOURCE" refId="64" navigable="false">      
+      <attribute id="193" name="itemSellStatus">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="194" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="195">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="196" name="boardService">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="197" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="92" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="198">    
+    <end type="SOURCE" refId="65"/>    
+    <end type="TARGET" refId="60"/>  
+  </nesting>  
+  <association id="199">    
+    <end type="SOURCE" refId="60" navigable="false">      
+      <attribute id="200" name="roleSet$value">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="201" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="202">    
+    <bendpoint x="7327" y="1179"/>    
+    <bendpoint x="7327" y="1804"/>    
+    <end type="SOURCE" refId="55" navigable="false">      
+      <attribute id="203" name="member">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="204" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="65" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="205">    
+    <bendpoint x="9166" y="1179"/>    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="57"/>  
+  </generalization>  
+  <association id="206">    
+    <end type="SOURCE" refId="64" navigable="false">      
+      <attribute id="207" name="member">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="208" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="65" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="209">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="210" name="cartService">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="211" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="88" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="212">    
+    <end type="SOURCE" refId="84" navigable="false">      
+      <attribute id="213" name="orderRepository">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="214" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="77" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="215">    
+    <end type="SOURCE" refId="59" navigable="false">      
+      <attribute id="216" name="cart">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="217" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="56" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="218">    
+    <bendpoint x="9187" y="1804"/>    
+    <bendpoint x="9187" y="1179"/>    
+    <end type="SOURCE" refId="65"/>    
+    <end type="TARGET" refId="57"/>  
+  </generalization>  
+  <association id="219">    
+    <end type="SOURCE" refId="55" navigable="false">      
+      <attribute id="220" name="orderStatus">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="221" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="222">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="223" name="orderService">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="224" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="84" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="225">    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="226" name="itemSellStatus">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="227" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="228">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="229" name="memberService">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="230" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="87" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="231">    
+    <end type="SOURCE" refId="56" navigable="false">      
+      <attribute id="232" name="member">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="233" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="65" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="234">    
+    <bendpoint x="7636" y="1179"/>    
+    <end type="SOURCE" refId="89" navigable="false">      
+      <attribute id="235" name="itemImgRepository">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="236" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="72" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="237">    
+    <bendpoint x="6808" y="1804"/>    
+    <end type="SOURCE" refId="49" navigable="false">      
+      <attribute id="238" name="itemSellStatus">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="239" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="240">    
+    <bendpoint x="8387" y="1804"/>    
+    <bendpoint x="8387" y="1179"/>    
+    <bendpoint x="8852" y="644"/>    
+    <end type="SOURCE" refId="66"/>    
+    <end type="TARGET" refId="58"/>  
+  </generalization>  
+  <association id="241">    
+    <bendpoint x="11340" y="1179"/>    
+    <end type="SOURCE" refId="88" navigable="false">      
+      <attribute id="242" name="itemRepository">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="243" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="79" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="244">    
+    <end type="SOURCE" refId="89" navigable="false">      
+      <attribute id="245" name="itemImgService">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="246" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="90" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="247">    
+    <end type="SOURCE" refId="90" navigable="false">      
+      <attribute id="248" name="fileService">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="249" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="85" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="250">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="42"/>  
+  </nesting>  
+  <generalization id="251">    
+    <end type="SOURCE" refId="61"/>    
+    <end type="TARGET" refId="57"/>  
+  </generalization>  
+  <association id="252">    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="253" name="orderStatus">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="254" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="255">    
+    <end type="SOURCE" refId="91" navigable="false">      
+      <attribute id="256" name="replyRepository">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="257" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="74" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="258">    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="259" name="orderItemDtoList">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="260" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="261">    
+    <end type="SOURCE" refId="69" navigable="false">      
+      <attribute id="262" name="item">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="263" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="64" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="264">    
+    <end type="SOURCE" refId="59" navigable="false">      
+      <attribute id="265" name="item">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="266" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="64" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="267">    
+    <bendpoint x="8766" y="3072"/>    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="268" name="roles">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="269" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="270">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="47"/>  
+  </nesting>  
+  <association id="271">    
+    <end type="SOURCE" refId="88" navigable="false">      
+      <attribute id="272" name="cartRepository">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="273" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="73" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="274">    
+    <end type="SOURCE" refId="78"/>    
+    <end type="TARGET" refId="75"/>  
+  </realization>  
+  <association id="275">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="276" name="cartOrderDtoList">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="277" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="278">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="44"/>  
+  </nesting>  
+  <association id="279">    
+    <end type="SOURCE" refId="84" navigable="false">      
+      <attribute id="280" name="memberRepository">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="281" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="81" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="282">    
+    <bendpoint x="6470" y="1804"/>    
+    <end type="SOURCE" refId="49" navigable="false">      
+      <attribute id="283" name="itemImgDtoList">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="284" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="285">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="286" name="replyService">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="287" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="91" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="288">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="34"/>  
+  </nesting>  
+  <association id="289">    
+    <end type="SOURCE" refId="61" navigable="false">      
+      <attribute id="290" name="order">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="291" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="55" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
