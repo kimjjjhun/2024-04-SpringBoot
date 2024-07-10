@@ -163,3 +163,7 @@
 
 ### <p align="center"> :point_up_2: 구현기능 : 3 </p>
 
+# 💻 프로젝트 소감 및 막혔던부분 해결 방안
+![image](https://github.com/kimjjjhun/2024-04-SpringBoot/assets/157094653/27ac4fff-d09f-4515-bf4a-d030344ff7df)
+
+
