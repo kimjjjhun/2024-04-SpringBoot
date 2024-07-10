@@ -55,9 +55,7 @@
 
  ### 2. 구글 로그인 API
 
- ### 3. 항공조회, 주차장조회 API(공공데이터포탈)
-
----
+ ---
 
 # 📄 기능 구현 사항 ([유튜브로 이동](https://www.youtube.com/watch?app=desktop&v=n38M9lNqI_4))
 ## 1. 메인 페이지    
