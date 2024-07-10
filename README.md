@@ -136,20 +136,20 @@
    * #### (2) 공지사항 작성, 수정, 삭제(업데이트예정)
    * #### (3) 상품,게시글,댓글 삭제 (구현완료)
 
-<img src="https://user-images.githubusercontent.com/78531061/126254395-8b3ffa8a-0631-42bf-9dd8-d8abc0daf835.gif" width="100%" height="554">
+
 
 
 ### <p align="center"> :point_up_2: 구현기능 : 1 </p>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/78531061/126213848-b7011332-8cf7-427a-9e70-6a8ac8b55283.gif" width="100%" height="554">
+
 
  ### <p align="center"> :point_up_2: 구현기능 : 2 </p>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/78531061/126213871-9ddb636e-a1d0-45b2-93dd-29d4240d1b4e.gif" width="100%" height="554">
+
 
 ### <p align="center"> :point_up_2: 구현기능 : 3 </p>
 
