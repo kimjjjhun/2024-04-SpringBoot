@@ -67,7 +67,8 @@
   * #### (2) 카카오 페이 결제 API (업데이트예정)
  
   
-![image](https://github.com/kimjjjhun/2024-04-SpringBoot/assets/157094653/5d484c25-62df-4627-863e-3e69d7506184)
+![image](https://github.com/kimjjjhun/2024-04-SpringBoot/assets/157094653/ac86fd9a-3e33-4d9a-8a0b-97e68426594f)
+
  
  
 ### <p align="center"> :point_up_2: 구현기능 : 1, 2 </p>
