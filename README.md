@@ -1,4 +1,5 @@
-![header]![image](https://github.com/kimjjjhun/2024-04-SpringBoot/assets/157094653/a80c56ae-881a-4c7e-ad0d-dfb4b9e2984b)
+![header]![image](https://github.com/kimjjjhun/2024-04-SpringBoot/assets/157094653/0e6540e0-306d-4b8c-930b-65f9ce26814c)
+
 
 
 # 🎬 SkyLife 프로젝트
