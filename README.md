@@ -14,7 +14,7 @@
 ### 2024.6.17 ~ 2021.6.31 (2주)
 
 # 👩‍💻   팀원 구성
-### [김정훈]![image](https://github.com/kimjjjhun/2024-04-SpringBoot/assets/157094653/6fa04299-30a6-4466-8a01-ca4ed3c95b2f)
+### [김정훈](https://github.com/kimjjjhun/2024-04-SpringBoot/assets/157094653/6fa04299-30a6-4466-8a01-ca4ed3c95b2f)
 
 
 # 🎯 기술 스택
