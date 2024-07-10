@@ -11,10 +11,11 @@
 
 
 # 📆   작업 기간
-### 2021.6.27 ~ 2021.7.20 (24일간)
+### 2024.6.17 ~ 2021.6.31 (2주)
 
 # 👩‍💻   팀원 구성
-### [박현성](https://github.com/lusida0131), [김다슬](https://github.com/seulda), [고정현](https://github.com/lsc3421), [유승준](https://github.com/wns1908)
+### [김정훈]![image](https://github.com/kimjjjhun/2024-04-SpringBoot/assets/157094653/6fa04299-30a6-4466-8a01-ca4ed3c95b2f)
+
 
 # 🎯 기술 스택
 ## Front-end 
